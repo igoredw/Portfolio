@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "IGOR-BoldItalic";
+    src: url('/fonts/IGOR-BoldItalic.ttf') format('truetype');
+  }
+  
+  h1{
+    font-family: "IGOR-BoldItalic", sans-serif;
+  }
+  
+  h2{
+    font-family: "IGOR-BoldItalic", sans-serif;
+  }
